@@ -55,7 +55,7 @@ Full-Stack Developer... too lazy to push... love to code... read manhwa...
 </div>
 
 <hr>
-### :fire: My Stats :
+:fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=firaeholic&theme=dark&border_radius=3)](https://git.io/streak-stats)
 
