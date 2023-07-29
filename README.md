@@ -23,7 +23,7 @@
 <hr>
 
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 Full-Stack Developer... too lazy to push... love to code... read manhwa...
 - :telescope: <i>Computer Science student at Addis Ababa University.</i>
 
