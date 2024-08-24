@@ -29,7 +29,7 @@ Full-Stack Developer... too lazy to push... love to code... read novels...
 
 - :zap: <i>I.. watch movies... play games... do leetcode</i>
 
-- :mailbox:<i>How to reach me:</i> <b>firatheking@gmail.com</b>
+- :mailbox:<i>How to reach me:</i> <b>franolfekadublas@gmail.com</b>
 
 <hr>
 
