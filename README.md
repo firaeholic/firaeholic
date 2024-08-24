@@ -24,10 +24,10 @@
 
 
 ### :man_technologist: About Me :
-Full-Stack Developer... too lazy to push... love to code... read manhwa...
+Full-Stack Developer... too lazy to push... love to code... read novels...
 - :telescope: <i>Computer Science student at Addis Ababa University.</i>
 
-- :zap: <i>I.. watch animes... play games... do leetcode</i>
+- :zap: <i>I.. watch movies... play games... do leetcode</i>
 
 - :mailbox:<i>How to reach me:</i> <b>firatheking@gmail.com</b>
 
