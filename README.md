@@ -24,8 +24,8 @@
 
 
 ### :man_technologist: About Me :
-Full-Stack Developer... too lazy to push... love to code... read novels
-- :telescope: <i>Computer Science student at Addis Ababa University.</i>
+Full-Stack Developer
+- :telescope: <i>Computer Science graduate at Addis Ababa University.</i>
 
 - :zap: <i>Heavy coder</i>
 
