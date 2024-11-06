@@ -15,6 +15,7 @@
   <h1>
   Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Franol Franol
 </h1>
 </div>
 <div align="center">
@@ -24,7 +25,7 @@
 
 
 ### :man_technologist: About Me :
-Full-Stack Developer
+Full-Stack Developer from Ethiopia
 - :telescope: <i>Computer Science graduate at Addis Ababa University.</i>
 
 - :zap: <i>Heavy coder</i>
