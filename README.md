@@ -28,7 +28,7 @@
 Full-Stack Developer from Ethiopia
 - :telescope: <i>Computer Science graduate at Addis Ababa University.</i>
 
-- :zap: <i>Heavy coder</i>
+- :zap: <i>Love to code</i>
 
 - :mailbox:<i>How to reach me:</i> <b>franol.fekadu-ug@aau.edu.et</b>
 
