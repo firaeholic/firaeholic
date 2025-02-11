@@ -60,6 +60,6 @@ Full-Stack Developer from Ethiopia
 
 <hr>
 :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=firaeholic&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=firaeholic&theme=dark" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firaeholic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
