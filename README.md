@@ -59,7 +59,6 @@ Full-Stack Developer from Ethiopia
 </div>
 
 <hr>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=firaeholic&theme=dark" alt="GitHub Streak" /></a>
 <br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firaeholic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -121,19 +120,6 @@ Full-Stack Developer from Ethiopia
           srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=firaeholic&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=firaeholic&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
-    </a></td>
-  </tr>
-  <tr>
-    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-      <picture>
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=firaeholic&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-profile-trophy.vercel.app/?username=firaeholic&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=firaeholic&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
     </a></td>
   </tr>
