@@ -30,7 +30,7 @@ Full-Stack Developer from Ethiopia
 
 - :zap: <i>Love to code</i>
 
-- :mailbox:<i>How to reach me:</i> <b>franol.fekadu-ug@aau.edu.et</b>
+- :mailbox:<i>How to reach me:</i> <b>franolfekadublas@gmail.com</b>
 
 <hr>
 
