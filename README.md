@@ -61,7 +61,7 @@ Full-Stack Developer from Ethiopia
 <hr>
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firaeholic&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=firaeholic&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <table width="100%" align="center">
   <tr>
