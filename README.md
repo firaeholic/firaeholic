@@ -25,7 +25,7 @@
 
 
 ### :man_technologist: About Me :
-Full-Stack Developer from Ethiopia
+Full-Stack Developer
 - :telescope: <i>Computer Science graduate at Addis Ababa University.</i>
 
 - :zap: <i>Love to code</i>
