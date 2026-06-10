@@ -65,7 +65,7 @@ Full-Stack Developer
 
 <table width="100%" align="center">
   <tr>
-    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <td colspan="3" align="center"><a href="https://streak-stats.demolab.com/?user=firaeholic">
       <picture>
         <source
           srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=firaeholic&mode=daily&hide_border=true&background=00000000&theme=dark"
