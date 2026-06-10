@@ -86,7 +86,7 @@ Full-Stack Developer
         <source
           srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=firaeholic&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=firaeholic&border_color=0000&bg_color=0000" height="100%" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=firaeholic&theme=tokyonight />
       </picture>
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
